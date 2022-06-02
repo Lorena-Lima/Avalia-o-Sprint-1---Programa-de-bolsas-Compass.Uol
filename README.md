@@ -1,2 +1,2 @@
-# Avalia-o-Sprint-1---Programa-de-bolsas-Compass.Uol
+# Sprint 01
 Avaliação teórica Sprint 01
