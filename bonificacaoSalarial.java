@@ -21,8 +21,5 @@ public class bonificacaoSalarial {
         ana.calculaSalario(2500.00);
         ana.pulaLinha();
 
-
-
-
     }
 }
