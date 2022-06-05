@@ -24,5 +24,5 @@
 </p>
 
 <p> <b>5 -	José foi promovido de seu cargo anterior e se tornou o novo Product Owner do time, quais são suas novas responsabilidades como PO?</b> <br><br>
- O PO é o ponto de encontro do cliente e o Dev team. Ele deve saber todas as necessidades e requisitos do sistema, também é responsável por decidir quais os recursos e funcionalidades serão construídos e qual a sua ordem. Também é responsabilidade dele manter e comunicar a equipe o  que a equipe está buscando alcançar no projeto, q1uais são os bugs e melhorias que podem ser feitas. Ele prioriza o item do Backlog. Portanto, deve ter conhecimento tamto da área de tecnologias quanto de gestão de negócios. <br><br>
+ O PO é o ponto de encontro do cliente e o Dev team. Ele deve saber todas as necessidades e requisitos do sistema, também é responsável por decidir quais os recursos e funcionalidades serão construídos e qual a sua ordem. Também é responsabilidade dele manter e comunicar a equipe o  que a equipe está buscando alcançar no projeto, quais são os bugs e melhorias que podem ser feitas. Ele prioriza o item do Backlog. Portanto, deve ter conhecimento tamto da área de tecnologias quanto de gestão de negócios. <br><br>
 </p>
