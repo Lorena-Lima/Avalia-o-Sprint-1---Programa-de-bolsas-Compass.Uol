@@ -1,5 +1,3 @@
-<h1> Sprint 01 </h1>
-<h3> Avaliação teórica Sprint 01 </h3> 
 
 <p> <b>1-	Baseado no Scrum Guide, qual o tempo máximo deveriam ter as seguintes cerimônias: </b><br><br>
   <b>a. Daily:  </b> cerca de 15 minutos;<br>
